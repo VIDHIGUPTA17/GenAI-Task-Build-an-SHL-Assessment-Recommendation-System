@@ -98,6 +98,4 @@ pandas==2.1.3
 
 ***
 
-**Author**: [Your Name] | **SHL AI Intern Assignment** | **Dec 2025**
-
-*Replace URLs, Mean Recall@10 score, and your name before submitting.*
+**Author**: [Vidhi Gupta]
