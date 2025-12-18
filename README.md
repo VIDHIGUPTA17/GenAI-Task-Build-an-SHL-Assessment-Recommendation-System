@@ -84,11 +84,6 @@ pandas==2.1.3
    curl "http://localhost:8000/recommend?query=\"Python SQL developer\"&k=3" | jq
    ```
 
-3. **Full Evaluation**:
-   ```bash
-   python phase_c_evaluation.py
-   ```
-
 
 
 ## 🤝 Deployment
