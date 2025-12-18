@@ -1,0 +1,32 @@
+2025-12-16 15:32:02,949 - INFO - ============================================================
+2025-12-16 15:32:02,950 - INFO - SHL ASSESSMENT CATALOG SCRAPER - STARTING
+2025-12-16 15:32:02,951 - INFO - ============================================================
+2025-12-16 15:32:02,953 - INFO - 
+STEP 1: Scraping SHL catalog...
+2025-12-16 15:32:02,954 - INFO - 
+============================================================
+2025-12-16 15:32:02,955 - INFO - Processing page 1/50
+2025-12-16 15:32:02,956 - INFO - ============================================================
+2025-12-16 15:32:02,957 - INFO - Fetching page 1 (Attempt 1/3)
+2025-12-16 15:32:10,054 - INFO - Successfully fetched page 1
+2025-12-16 15:32:10,647 - WARNING - No assessment cards found with default selectors
+2025-12-16 15:32:10,649 - INFO - No assessments found on page 1. Stopping scrape.
+2025-12-16 15:32:10,650 - INFO - 
+Scraping complete! Total assessments: 0
+2025-12-16 15:32:10,652 - ERROR - No assessments scraped. Exiting.
+2025-12-16 15:33:50,436 - INFO - ============================================================
+2025-12-16 15:33:50,437 - INFO - SHL ASSESSMENT CATALOG SCRAPER - STARTING
+2025-12-16 15:33:50,438 - INFO - ============================================================
+2025-12-16 15:33:50,439 - INFO - 
+STEP 1: Scraping SHL catalog...
+2025-12-16 15:33:50,439 - INFO - 
+============================================================
+2025-12-16 15:33:50,440 - INFO - Processing page 1/50
+2025-12-16 15:33:50,441 - INFO - ============================================================
+2025-12-16 15:33:50,443 - INFO - Fetching page 1 (Attempt 1/3)
+2025-12-16 15:33:56,933 - INFO - Successfully fetched page 1
+2025-12-16 15:33:57,076 - WARNING - No assessment cards found with default selectors
+2025-12-16 15:33:57,077 - INFO - No assessments found on page 1. Stopping scrape.
+2025-12-16 15:33:57,078 - INFO - 
+Scraping complete! Total assessments: 0
+2025-12-16 15:33:57,079 - ERROR - No assessments scraped. Exiting.

@@ -1,0 +1,3822 @@
+[
+  {
+    "Assessment Name": "Global Skills Development Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, E, Behavior, C, D, Personality & Behavior",
+    "Test Type Keys": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": ".NET Framework 4.5",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": ".NET MVC (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": ".NET MVVM (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": ".NET WCF (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": ".NET WPF (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": ".NET XAML (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Accounts Payable (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Accounts Payable Simulation (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Accounts Receivable (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Accounts Receivable Simulation (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "ADO.NET (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Adobe Experience Manager (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Adobe Photoshop CC",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Aeronautical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Aerospace Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Agile Software Development",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Agile Testing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "AI Skills",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Amazon Web Services (AWS) Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Android Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Angular 6 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "AngularJS (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Hadoop (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Hadoop Extensions (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache HBase (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Hive (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Kafka (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Pig (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Apache Spark (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "ASP .NET with C# (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "ASP.NET 4.5",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Assessment and Development Center Exercises",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "E",
+    "Test Type Keys": [
+      "E"
+    ]
+  },
+  {
+    "Assessment Name": "Automata - Fix (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata - SQL (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata Data Science (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata Data Science Pro (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata Front End",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata Pro (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automata Selenium",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Automation Anywhere RPA Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Automotive Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Basic Biology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Basic Computer Literacy (Windows 10) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations, Knowledge & Skills",
+    "Test Type Keys": [
+      "S",
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Basic Statistics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Biochemistry (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Biotech Lab Techniques (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "BizTalk (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Business Communication (adaptive)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Business Communications",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "C Programming (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "C# Programming (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "C++ Programming (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Cardiology and Diabetes Management (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Ceramic Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Chemical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Cisco AppDynamics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Civil Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Cloud Computing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "COBOL Programming (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Computer Science (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Contact Center Call Simulation (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Conversational Multichat Simulation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Core Java (Advanced Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Core Java (Entry Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Count Out The Money",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "CSS3 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Culinary Skills (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Customer Service Phone Simulation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior, Simulations",
+    "Test Type Keys": [
+      "B",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Customer Service Phone Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior, Personality & Behavior, Simulations",
+    "Test Type Keys": [
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Cyber Risk (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Data Entry (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Data Entry Alphanumeric Split Screen - US",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Data Entry Numeric Split Screen - US",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Data Entry Ten Key Split Screen",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Data Science (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Data Warehousing Concepts",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Dependability and Safety Instrument (DSI)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Dermatology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Desktop Support (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Digital Advertising (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Digital Readiness Development Report - IC",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Digital Readiness Development Report - Manager",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Docker (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Dojo (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Drupal (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "DSI v1.1 Interpretation Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Econometrics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Economics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Electrical and Electronics Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Electrical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Electronics & Telecommunications Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Electronics and Embedded Systems Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Electronics and Semiconductor Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "English Comprehension (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Enterprise Java Beans (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Enterprise Leadership Report 1.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Enterprise Leadership Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Cashier Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Customer Serv-Retail & Contact Center",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior, C",
+    "Test Type Keys": [
+      "P",
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Customer Service (General) Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Hotel Front Desk Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Sales Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Entry Level Technical Support Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior, C",
+    "Test Type Keys": [
+      "P",
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "ETL Testing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Executive Scenarios",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Executive Scenarios Narrative Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Executive Scenarios Profile Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "ExpressJS (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Filing - Names (R1)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Filing - Numbers",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Financial Accounting (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Financial and Banking Services (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Fire Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Following Instructions v1 - UK (R1)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Following Instructions v1 - US (R2)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Food and Beverage Services (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Food Science (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Front Office Management (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Fundamentals of Chemistry (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Fundamentals of Physics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "General Diseases (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Geoinformatics Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Geoscience Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "GIT (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Global Skills Assessment",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Knowledge & Skills",
+    "Test Type Keys": [
+      "C",
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Graduate Scenarios",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Graduate Scenarios Narrative Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Graduate Scenarios Profile Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Hibernate (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "HIPAA (Security)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "HiPo Assessment Report 1.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "HiPo Assessment Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "HiPo Unlocking Potential Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C",
+    "Test Type Keys": [
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "Housekeeping (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "HTML/CSS (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "HTML5 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Human Resources (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "IBM DataStage (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "IBM Sterling Order Management System (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Industrial Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Informatica (Architecture) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Informatica (Developer) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Instrumentation Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Interpersonal Communications",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Interviewing and Hiring Concepts (U.S.)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "iOS Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "ITIL (IT Infrastructure Library) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java 8 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java Design Patterns (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java Frameworks (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Java Web Services (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "JavaScript (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Jenkins (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Job Control Language (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "jQuery (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Kubernetes (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Linux Administration (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Linux Operating System",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Linux Programming (General)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Load Runner (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Management Scenarios",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Managerial Scenarios Candidate Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Managerial Scenarios Narrative Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Managerial Scenarios Profile Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior",
+    "Test Type Keys": [
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Manual Testing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, Personality & Behavior",
+    "Test Type Keys": [
+      "A",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, Personality & Behavior",
+    "Test Type Keys": [
+      "A",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, Personality & Behavior",
+    "Test Type Keys": [
+      "A",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Marketing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Maven (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Mechanical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Mechatronics Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Medical Terminology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Metallurgical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MFS 360 Enterprise Leadership Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D",
+    "Test Type Keys": [
+      "D"
+    ]
+  },
+  {
+    "Assessment Name": "MFS 360 UCF Group Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D",
+    "Test Type Keys": [
+      "D"
+    ]
+  },
+  {
+    "Assessment Name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D",
+    "Test Type Keys": [
+      "D"
+    ]
+  },
+  {
+    "Assessment Name": "MFS 360 UCF Standard Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D",
+    "Test Type Keys": [
+      "D"
+    ]
+  },
+  {
+    "Assessment Name": "Micro Focus Unified Functional Testing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microservices (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Dynamics Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Excel 365 - Essentials (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Excel 365 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Outlook 2013 (adaptive)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft SQL Server 2014 Programming",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Windows Server 2012 Administration",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Word 365 - Essentials (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Microsoft Word 365 (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations, Knowledge & Skills",
+    "Test Type Keys": [
+      "S",
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Mineral Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Mining Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Mobility (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Molecular Biology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MongoDB (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Motivation Questionnaire MQM5",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "MQ Candidate Motivation Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "MQ Employee Motivation Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "MQ Motivation Report Pack",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "MQ Profile",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "MS Access (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MS Excel (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MS Office Basic Computer Literacy (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "MS PowerPoint (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MS Word (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "MuleSoft Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Multitasking Ability",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, Knowledge & Skills, Simulations",
+    "Test Type Keys": [
+      "A",
+      "K",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Networking and Implementation (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Node.js (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Nursing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Occupational Personality Questionnaire OPQ32r",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Operations Management (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Candidate Plus Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Candidate Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Emotional Intelligence Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Leadership Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Manager Plus Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Manager Plus Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Maximising your Learning Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ MQ Sales Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Premium Plus Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Premium Plus Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Profile Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Group Development Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Individual Development Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Selection Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Team Types & Leadership Styles Profile",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Team Types and Leadership Styles Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ UCF Development Action Planner Report 1.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ UCF Development Action Planner Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Universal Competency Report 1.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ Universal Competency Report 2.0",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ User and Managers Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "OPQ User Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior, Simulations",
+    "Test Type Keys": [
+      "P",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Oracle DBA (Advanced Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Oracle DBA (Entry Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Oracle PL/SQL (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Oracle WebLogic Server (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Organic Chemistry (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Paint Technology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pediatrics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pega Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Perl (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Petrochemical Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Petroleum Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pharmaceutical Analysis (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pharmaceutical Chemistry (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pharmaceutical Science (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pharmaceutics (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Pharmacology (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "PHP (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "PJM Development Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Ability, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "A",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "PJM Selection Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, C, Personality & Behavior",
+    "Test Type Keys": [
+      "A",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Polymer Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Power Electronics and Drives (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Power System Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Prism (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Production and Industrial Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Production Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Programming Concepts",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Project Management (2013)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Proofreading v1",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Python (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "R Programming (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "ReactJS (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Reading Comprehension - English v1",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Reading Comprehension - Spanish v1",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Reading Comprehension v2",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "RemoteWorkQ",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C",
+    "Test Type Keys": [
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "RemoteWorkQ Manager Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C",
+    "Test Type Keys": [
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "RemoteWorkQ Participant Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C",
+    "Test Type Keys": [
+      "C"
+    ]
+  },
+  {
+    "Assessment Name": "RESTful Web Services (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Retail Sales and Service Simulation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior, Knowledge & Skills, Simulations, Ability",
+    "Test Type Keys": [
+      "B",
+      "K",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Reviewing Forms - US (R1)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Ruby (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Ruby on Rails (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Sales & Service Phone Simulation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations, Behavior",
+    "Test Type Keys": [
+      "S",
+      "B"
+    ]
+  },
+  {
+    "Assessment Name": "Sales & Service Phone Solution",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior, Personality & Behavior, Simulations",
+    "Test Type Keys": [
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Interview Guide",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior, Personality & Behavior",
+    "Test Type Keys": [
+      "P",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Profiler Cards",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Transformation 1.0 - Individual Contributor",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Transformation 2.0 - Individual Contributor",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Transformation Report 1.0 - Sales Manager",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Sales Transformation Report 2.0 - Sales Manager",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Salesforce Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP ABAP (Advanced Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP ABAP (Intermediate Level) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP Basis (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP Business Objects WebI (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP BW (Business Warehouse) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP HCM (Human Capital Management) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP Hybris (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP Materials Management (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SAP SD (Sales and Distribution) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Search Engine Optimization (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Selenium (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Shell Scripting (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SHL Verify Interactive - Inductive Reasoning",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability, Simulations",
+    "Test Type Keys": [
+      "A",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability, Simulations",
+    "Test Type Keys": [
+      "A",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability, Simulations",
+    "Test Type Keys": [
+      "A",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SHL Verify Interactive G+",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "SHL Verify Interactive Numerical Calculation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Siebel Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Smart Interview Live",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Smart Interview Live Coding",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Smart Interview On Demand",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Social Media (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Software Business Analysis",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SonarQube (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Spelling (U.S.) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Split Screen Typing Test - Form 1",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability, Knowledge & Skills",
+    "Test Type Keys": [
+      "A",
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Spring (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SQL (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SQL Server (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SQL Server Analysis Services (SSAS) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SQL Server Integration Services (SSIS) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SQL Server Reporting Services (SSRS) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Statistical Analysis System (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Struts (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (AUS)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (U.K.)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (US)  (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken French (Canadian) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken French (European) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "SVAR - Spoken Spanish (North American) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Swing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Tableau (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Telecommunications Engineering (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Teradata Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Time Management (U.S.)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Training Development",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Typing (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "UiPath RPA Development (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Interview Guide",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Job profiling guide",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Profiler Cards (44)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "C, Personality & Behavior",
+    "Test Type Keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "UNIX (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "VB.NET (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Deductive Reasoning",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Following Instructions",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - G+",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - General Ability Screen",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Inductive Reasoning (2014)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Numerical Ability",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Technical Checking - Next Generation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Verbal Ability - Next Generation",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify - Working with Information",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify G+ - Ability Test Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify G+ - Candidate Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify Interactive Ability Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify Interactive G+ Candidate Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify Interactive G+ Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Verify Interactive Process Monitoring",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Ability",
+    "Test Type Keys": [
+      "A"
+    ]
+  },
+  {
+    "Assessment Name": "Virtual Assessment and Development Centers",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ]
+  },
+  {
+    "Assessment Name": "Visual Basic for Applications (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Visual Comparison - UK",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Visual Comparison - US",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "VLSI and Embedded Systems (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "What Is The Value - US",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Workplace Administration Skills (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Workplace Health and Safety (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Customer Service) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Managerial) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Simulations",
+    "Test Type Keys": [
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Sales) (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Behavior, Simulations",
+    "Test Type Keys": [
+      "B",
+      "S"
+    ]
+  },
+  {
+    "Assessment Name": "Written English v1",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Written Spanish",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "Zabbix (New)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ]
+  },
+  {
+    "Assessment Name": "360 Digital Report",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D",
+    "Test Type Keys": [
+      "D"
+    ]
+  },
+  {
+    "Assessment Name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "Assessment URL": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "D, Personality & Behavior",
+    "Test Type Keys": [
+      "D",
+      "P"
+    ]
+  }
+]

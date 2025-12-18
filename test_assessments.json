@@ -1,0 +1,44 @@
+[
+  {
+    "Assessment Name": "Python Programming",
+    "Assessment URL": "https://www.shl.com/python",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Knowledge & Skills",
+    "Test Type Keys": [
+      "K"
+    ],
+    "Description": "Test for Python knowledge covering basics, OOP, and libraries.",
+    "Time (Minutes)": "20",
+    "Job Levels": "Mid-Professional, Senior",
+    "Languages": "English (USA)"
+  },
+  {
+    "Assessment Name": "Communication Skills",
+    "Assessment URL": "https://www.shl.com/communication",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ],
+    "Description": "Assessment of verbal and written communication abilities.",
+    "Time (Minutes)": "15",
+    "Job Levels": "General Population",
+    "Languages": "English (USA)"
+  },
+  {
+    "Assessment Name": "Leadership Potential",
+    "Assessment URL": "https://www.shl.com/leadership",
+    "Remote Testing Support": "No",
+    "Adaptive/IRT Support": "No",
+    "Test Type": "Personality & Behavior",
+    "Test Type Keys": [
+      "P"
+    ],
+    "Description": "Evaluates leadership capability and management potential.",
+    "Time (Minutes)": null,
+    "Job Levels": "Manager, Executive",
+    "Languages": "English (USA)"
+  }
+]
