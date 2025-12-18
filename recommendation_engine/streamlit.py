@@ -7,7 +7,7 @@ from typing import Dict, Any
 # ===============================
 # CONFIG
 # ===============================
-API_BASE_URL = "http://localhost:8000"   # Change if deployed
+API_BASE_URL = "http://genai-task-build-an-shl-assessment.onrender.com"  
 RECOMMEND_ENDPOINT = f"{API_BASE_URL}/recommend"
 
 st.set_page_config(
